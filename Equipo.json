@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bddf"
+  },
+  "NombreEquipo": "Equipo1"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde0"
+  },
+  "NombreEquipo": "Equipo2"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde1"
+  },
+  "NombreEquipo": "Equipo3"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde2"
+  },
+  "NombreEquipo": "Equipo4"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde3"
+  },
+  "NombreEquipo": "Equipo5"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde4"
+  },
+  "NombreEquipo": "Equipo6"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde5"
+  },
+  "NombreEquipo": "Equipo7"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde6"
+  },
+  "NombreEquipo": "Equipo8"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde7"
+  },
+  "NombreEquipo": "Equipo9"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde8"
+  },
+  "NombreEquipo": "Equipo10"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bde9"
+  },
+  "NombreEquipo": "Equipo11"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdea"
+  },
+  "NombreEquipo": "Equipo12"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdeb"
+  },
+  "NombreEquipo": "Equipo13"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdec"
+  },
+  "NombreEquipo": "Equipo14"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bded"
+  },
+  "NombreEquipo": "Equipo15"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdee"
+  },
+  "NombreEquipo": "Equipo16"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdef"
+  },
+  "NombreEquipo": "Equipo17"
+},{
+  "_id": {
+    "$oid": "632be27c50797f0c1d63bdf0"
+  },
+  "NombreEquipo": "Equipo18"
+}]

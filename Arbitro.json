@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be15"
+  },
+  "Nombres": "Arbitro1",
+  "Apellidos": "AppelidoArbitro1",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999123",
+  "Edad": 35
+},{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be16"
+  },
+  "Nombres": "Arbitro2",
+  "Apellidos": "AppelidoArbitro2",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999124",
+  "Edad": 36
+},{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be17"
+  },
+  "Nombres": "Arbitro3",
+  "Apellidos": "AppelidoArbitro3",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999125",
+  "Edad": 37
+},{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be18"
+  },
+  "Nombres": "Arbitro4",
+  "Apellidos": "AppelidoArbitro4",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999126",
+  "Edad": 38
+},{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be19"
+  },
+  "Nombres": "Arbitro5",
+  "Apellidos": "AppelidoArbitro5",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999127",
+  "Edad": 39
+},{
+  "_id": {
+    "$oid": "632be5cd50797f0c1d63be1a"
+  },
+  "Nombres": "Arbitro6",
+  "Apellidos": "AppelidoArbitro6",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999128",
+  "Edad": 40
+}]

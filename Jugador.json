@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf3"
+  },
+  "Nombres": "Jugador1",
+  "Apellidos": "AppelidoJugador2",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "20804",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 20
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf4"
+  },
+  "Nombres": "Jugador2",
+  "Apellidos": "AppelidoJugador3",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "15635",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 21
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf5"
+  },
+  "Nombres": "Jugador3",
+  "Apellidos": "AppelidoJugador4",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "91040",
+  "EquipoID": "632be27c50797f0c1d63bde2",
+  "Edad": 22
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf6"
+  },
+  "Nombres": "Jugador4",
+  "Apellidos": "AppelidoJugador5",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "80791",
+  "EquipoID": "632be27c50797f0c1d63bde2",
+  "Edad": 23
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf7"
+  },
+  "Nombres": "Jugador5",
+  "Apellidos": "AppelidoJugador6",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "46017",
+  "EquipoID": "632be27c50797f0c1d63bde2",
+  "Edad": 24
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf8"
+  },
+  "Nombres": "Jugador6",
+  "Apellidos": "AppelidoJugador7",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "58545",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 25
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdf9"
+  },
+  "Nombres": "Jugador7",
+  "Apellidos": "AppelidoJugador8",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "89085",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 26
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdfa"
+  },
+  "Nombres": "Jugador8",
+  "Apellidos": "AppelidoJugador9",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "61260",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 27
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdfb"
+  },
+  "Nombres": "Jugador9",
+  "Apellidos": "AppelidoJugador10",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "55989",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 28
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdfc"
+  },
+  "Nombres": "Jugador10",
+  "Apellidos": "AppelidoJugador11",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "74534",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 29
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdfd"
+  },
+  "Nombres": "Jugador11",
+  "Apellidos": "AppelidoJugador12",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "63820",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 30
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdfe"
+  },
+  "Nombres": "Jugador12",
+  "Apellidos": "AppelidoJugador13",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "84010",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 31
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63bdff"
+  },
+  "Nombres": "Jugador13",
+  "Apellidos": "AppelidoJugador14",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "48129",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 32
+},{
+  "_id": {
+    "$oid": "632be39950797f0c1d63be00"
+  },
+  "Nombres": "Jugador14",
+  "Apellidos": "AppelidoJugador15",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "55643",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 33
+}]

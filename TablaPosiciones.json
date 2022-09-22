@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "632be86c50797f0c1d63be21"
+  },
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "PartidosGanados": "4",
+  "PartidosEmpatados": "3",
+  "PartidosPerdidos": "2",
+  "TotalPuntos": "15"
+},{
+  "_id": {
+    "$oid": "632be86c50797f0c1d63be22"
+  },
+  "EquipoID": "632be27c50797f0c1d63bde1",
+  "PartidosGanados": "2",
+  "PartidosEmpatados": "4",
+  "PartidosPerdidos": "3",
+  "TotalPuntos": "10"
+},{
+  "_id": {
+    "$oid": "632be86c50797f0c1d63be23"
+  },
+  "EquipoID": "632be27c50797f0c1d63bde0",
+  "PartidosGanados": "1",
+  "PartidosEmpatados": "5",
+  "PartidosPerdidos": "3",
+  "TotalPuntos": "8"
+}]

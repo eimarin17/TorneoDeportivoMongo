@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be05"
+  },
+  "Nombres": "Entrenador1",
+  "Apellidos": "AppelidoEntrenador1",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "111111",
+  "EquipoID": "632be27c50797f0c1d63bddf",
+  "Edad": 40
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be06"
+  },
+  "Nombres": "Entrenador2",
+  "Apellidos": "AppelidoEntrenador2",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "222222",
+  "EquipoID": "632be27c50797f0c1d63bde0",
+  "Edad": 41
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be07"
+  },
+  "Nombres": "Entrenador3",
+  "Apellidos": "AppelidoEntrenador3",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "333333",
+  "EquipoID": "632be27c50797f0c1d63bde1",
+  "Edad": 42
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be08"
+  },
+  "Nombres": "Entrenador4",
+  "Apellidos": "AppelidoEntrenador4",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "444444",
+  "EquipoID": "632be27c50797f0c1d63bde2",
+  "Edad": 43
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be09"
+  },
+  "Nombres": "Entrenador5",
+  "Apellidos": "AppelidoEntrenador5",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "555555",
+  "EquipoID": "632be27c50797f0c1d63bde3",
+  "Edad": 44
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0a"
+  },
+  "Nombres": "Entrenador6",
+  "Apellidos": "AppelidoEntrenador6",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "666666",
+  "EquipoID": "632be27c50797f0c1d63bde4",
+  "Edad": 45
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0b"
+  },
+  "Nombres": "Entrenador7",
+  "Apellidos": "AppelidoEntrenador7",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "777777",
+  "EquipoID": "632be27c50797f0c1d63bde5",
+  "Edad": 46
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0c"
+  },
+  "Nombres": "Entrenador8",
+  "Apellidos": "AppelidoEntrenador8",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "888888",
+  "EquipoID": "632be27c50797f0c1d63bde6",
+  "Edad": 47
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0d"
+  },
+  "Nombres": "Entrenador9",
+  "Apellidos": "AppelidoEntrenador9",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "999999",
+  "EquipoID": "632be27c50797f0c1d63bde7",
+  "Edad": 48
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0e"
+  },
+  "Nombres": "Entrenador10",
+  "Apellidos": "AppelidoEntrenador10",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "1111110",
+  "EquipoID": "632be27c50797f0c1d63bde8",
+  "Edad": 49
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be0f"
+  },
+  "Nombres": "Entrenador11",
+  "Apellidos": "AppelidoEntrenador11",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "1222221",
+  "EquipoID": "632be27c50797f0c1d63bde9",
+  "Edad": 50
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be10"
+  },
+  "Nombres": "Entrenador12",
+  "Apellidos": "AppelidoEntrenador12",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "1333332",
+  "EquipoID": "632be27c50797f0c1d63bdea",
+  "Edad": 51
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be11"
+  },
+  "Nombres": "Entrenador13",
+  "Apellidos": "AppelidoEntrenador13",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "1444443",
+  "EquipoID": "632be27c50797f0c1d63bdeb",
+  "Edad": 52
+},{
+  "_id": {
+    "$oid": "632be53e50797f0c1d63be12"
+  },
+  "Nombres": "Entrenador14",
+  "Apellidos": "AppelidoEntrenador14",
+  "TipoIdentificacion": "CC",
+  "NumeroIdentificacion": "1555554",
+  "EquipoID": "632be27c50797f0c1d63bdec",
+  "Edad": 53
+}]

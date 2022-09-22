@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "632be79e50797f0c1d63be1d"
+  },
+  "NombreEncuentro": "Equipo 1 vs Equipo 2",
+  "EquipoID_1": "632be27c50797f0c1d63bddf",
+  "EquipoID2": "632be27c50797f0c1d63bde0",
+  "ArbitroID": "632be5cd50797f0c1d63be16"
+},{
+  "_id": {
+    "$oid": "632be79e50797f0c1d63be1e"
+  },
+  "NombreEncuentro": "Equipo 3 vs Equipo 4",
+  "EquipoID_1": "632be27c50797f0c1d63bde1",
+  "EquipoID2": "632be27c50797f0c1d63bde2",
+  "ArbitroID": "632be5cd50797f0c1d63be18"
+}]
